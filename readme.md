@@ -6,9 +6,9 @@
 
 
 ### 📗 2.2 Null Safety 완전 정복
-- 📙 nullable 타입과 safe call
-- 📒 Elvis 연산자, !! 연산자 사용 시점
-- 📒 null 관련 예외 상황 실습
+- [x] 📙 nullable 타입과 safe call
+- [x] 📒 Elvis 연산자, !! 연산자 사용 시점
+- [x] 📒 null 관련 예외 상황 실습
 
 
 ### 📗 2.3 데이터 중심 언어 기능

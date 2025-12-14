@@ -1,4 +1,4 @@
-package ch2_kotlin
+package ch2_kotlin.basic
 
 class User(var name: String = "", var age: Int = 0)
 

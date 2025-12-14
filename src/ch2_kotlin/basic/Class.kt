@@ -1,4 +1,4 @@
-package ch2_kotlin
+package ch2_kotlin.basic
 
 open class Shape // open을 붙여줘야 상속 가능
 

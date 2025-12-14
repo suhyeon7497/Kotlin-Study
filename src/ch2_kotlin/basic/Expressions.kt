@@ -1,4 +1,4 @@
-package ch2_kotlin
+package ch2_kotlin.basic
 
 fun main(args: Array<String>) {
     fun describe(obj: Any): String =
